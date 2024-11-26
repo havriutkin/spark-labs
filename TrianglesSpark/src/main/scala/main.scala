@@ -1,13 +1,5 @@
-
-/*
---add-exports java.base/sun.nio.ch=ALL-UNNAMED
-*/
-// scalastyle:off println
-
-// $example on$
 import org.apache.spark.SparkContext
 import org.apache.spark.graphx.{GraphLoader, PartitionStrategy}
-// $example off$
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 import java.io.File
