@@ -1,0 +1,18 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""C:\Users\havri\AppData\Local\Temp\idea.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""C:\Users\havri\AppData\Local\Temp\idea.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.10.5 (Azul Systems, Inc. Java 11.0.23)
+[debug] Load.defaultLoad until apply took 75.254ms
+[debug]           Load.loadUnit: plugins took 62.839ms
+[debug]           Load.loadUnit: defsScala took 0.1958ms
+[debug] [Loading] Scanning directory C:\Users\havri\Programming\University\concurrency\spark-triangles-scala\TrianglesSpark\project
+[debug]             Load.loadUnit: mkEval took 6.9887ms
